@@ -5,8 +5,8 @@
   
 ## Tech Stack 
    
-  - [Frontend Repository](https://github.com/NegiAkash890/editor-frontend/tree/main)
-  - [Backend Repository](https://github.com/NegiAkash890/editor-backend)
+  - [Frontend Repository](https://github.com/Rishi-121/editor-frontend/tree/main)
+  - [Backend Repository](https://github.com/Rishi-121/editor-backend)
    
 ## Prequisite knowledge
 
@@ -18,7 +18,7 @@ Contributors willing to participate in development need to have a certain amount
 
 ## Setting Project Locally and Contributing
     
-**1.** Start by making a fork of the repository. Click on the <a href="https://github.com/NegiAkash890/editor-frontendfork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
+**1.** Start by making a fork of the repository. Click on the <a href="https://github.com/Rishi-121/editor-frontendfork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
 
 **2.** Start by making a fork of the repository
 ```bash
@@ -27,7 +27,7 @@ git clone https://github.com/<your-github-username>/editor-frontend
 **3.** Set upstream command:
 
 ```bash
-git remote add upstream https://github.com/NegiAkash890/editor-frontend.git
+git remote add upstream https://github.com/Rishi-121/editor-frontend.git
 ```
 **4.** Navigate to the new project directory:
 
@@ -78,8 +78,8 @@ For major changes, you are welcome to [open an issue](https://github.com/EddieHu
    
  ## ✨ Our valuable Contributors👩‍💻👨‍💻 :
 
-<a href="https://github.com/NegiAkash890/editor-frontend/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=NegiAkash890/editor-frontend" />
+<a href="https://github.com/Rishi-121/editor-frontend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Rishi-121/editor-frontend" />
 </a>
 
 
