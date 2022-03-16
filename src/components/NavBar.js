@@ -18,7 +18,7 @@ const NavBar = () => {
       </div>
       <div className="info__section">
         <ThemeToggler />
-        <a href="https://github.com/Rishi-121/editor-backend">
+        <a href="https://github.com/Rishi-121/editor-frontend">
           <img
             src={`${process.env.PUBLIC_URL}/assets/github.png`}
             title="Go to GitHub Repository"

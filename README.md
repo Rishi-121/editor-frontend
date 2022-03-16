@@ -6,7 +6,7 @@
 ## Tech Stack 
    
   - [Frontend Repository](https://github.com/Rishi-121/editor-frontend/tree/main)
-  - [Backend Repository](https://github.com/Rishi-121/editor-backend)
+  - [Backend Repository](https://github.com/Rishi-121/editor-backend/tree/main)
    
 ## Prequisite knowledge
 
